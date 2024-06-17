@@ -1,6 +1,6 @@
 # Counter Project
 
-This project demonstrates showcases the use of different error handling statements in form of a counter.
+This project showcases the use of different error handling statements in form of a counter.
 
 There are three methods that constitute the error-handling process in Solidity:
 
